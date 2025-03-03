@@ -1,0 +1,39 @@
+.b{
+   
+    height:160;
+    width:160;
+    border-radius: 10;
+    font-size: 100;
+    text-align: center;
+}
+.button{
+    display: flex;
+}
+.t{
+    font-size: 40;
+}
+.game{
+    height: 50;
+    width:250;
+    
+}
+#reset{
+    height:40;
+    width:100;
+    border-radius: 5;
+    font-size: 20;
+    text-align: center;
+}
+#X{
+    font-size: 20;
+}
+#O{
+    font-size: 20;
+}
+#TIE{
+    font-size: 20;
+}
+body{
+    background-color:burlywood;
+}
+
